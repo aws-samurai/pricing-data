@@ -31,9 +31,9 @@ http://jawsdays2014.jaws-ug.jp/timetable/
 作業用TODO
 ===============
 
-- [趣旨説明][https://github.com/aws-samurai/pricing-notice/blob/master/趣旨説明.md]
-- [料金体系概要説明][https://github.com/aws-samurai/pricing-notice/blob/master/料金体系概要説明.md]
-- [決定戦説明][https://github.com/aws-samurai/pricing-notice/blob/master/決定戦説明.md][]
-- [お試し問題][]
+- [趣旨説明](https://github.com/aws-samurai/pricing-notice/blob/master/趣旨説明.md)
+- [料金体系概要説明](https://github.com/aws-samurai/pricing-notice/blob/master/料金体系概要説明.md)
+- [決定戦説明](https://github.com/aws-samurai/pricing-notice/blob/master/決定戦説明.md)
+- [お試し問題]()
 - 王者決定戦
-- [表彰式][https://github.com/aws-samurai/pricing-notice/blob/master/表彰式.md]
+- [表彰式](https://github.com/aws-samurai/pricing-notice/blob/master/表彰式.md)
